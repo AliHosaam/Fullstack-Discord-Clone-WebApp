@@ -1,31 +1,31 @@
 Key Features:
 
-1. Real-time Messaging: Just like Discord, the clone should support real-time messaging with low latency, enabling users to chat instantly with individuals or groups.
+    1. Real-time Messaging: Instantly chat with individuals or groups with low latency messaging.
 
-2. Voice and Video Calls: Users should be able to initiate voice and video calls individually or within group channels, supporting high-quality audio and video streaming.
+    2. Voice and Video Calls: Initiate high-quality voice and video calls individually or within group channels.
 
-3. Server and Channel Structure: The clone should replicate Discord's server and channel structure, allowing users to create and manage servers, channels, and categories to organize conversations effectively.
+    3. Server and Channel Structure: Create and manage servers, channels, and categories for effective organization of conversations.
 
-4. User Roles and Permissions: Implementing user roles and permissions enables server admins to control access levels, manage moderation, and customize user permissions within the server.
+    4. User Roles and Permissions: Customize user permissions and manage moderation within servers.
 
-5. Rich Text Formatting: Supporting rich text formatting options such as bold, italic, code blocks, and markdown enhances the messaging experience and allows users to express themselves effectively.
+    5. Rich Text Formatting: Use bold, italic, code blocks, and markdown for expressive messaging.
 
-6. File Sharing: Users should be able to share files of various types, including images, videos, documents, and more, directly within chat channels.
+    6. File Sharing: Share images, videos, documents, and more directly within chat channels.
 
-7. Presence Indicators: Displaying online, idle, or offline status indicators for users enhances communication by providing real-time presence information.
+    7. Presence Indicators: See online, idle, or offline status indicators for real-time presence information.
 
-8. Reaction Emojis: Similar to Discord, the clone should allow users to react to messages with emojis, adding a layer of expressiveness and interactivity to conversations.
+    8. Reaction Emojis: React to messages with emojis to add expressiveness to conversations.
 
-9. Push Notifications: Implementing push notifications ensures users stay informed about new messages, mentions, or activities even when the app is not actively in use.
+    9. Push Notifications: Stay informed about new messages, mentions, or activities with push notifications.
 
-10. Integration Support: Integrating with other services and platforms through APIs enables users to connect their accounts, share content, or perform actions seamlessly within the Discord clone.
+    10. Integration Support: Connect with other services and platforms through APIs for seamless integration.
 
-11. Moderation Tools: Providing moderation tools such as message deletion, user banning, message filtering, and spam detection helps maintain a safe and healthy community environment.
+    11. Moderation Tools: Delete messages, ban users, and filter spam to maintain a safe community environment.
 
-12. Customization Options: Offering customization options for user profiles, server themes, and notification settings allows users to personalize their experience according to their preferences.
+    12. Customization Options: Personalize user profiles, server themes, and notification settings according to preferences.
 
-13. Cross-Platform Compatibility: Supporting multiple platforms such as web, desktop, and mobile ensures users can access the Discord clone from any device seamlessly.
+    13. Cross-Platform Compatibility: Access the Discord clone from web, desktop, and mobile devices seamlessly.
 
-14. Multi-language Support: Including support for multiple languages allows users from different regions and backgrounds to use the Discord clone comfortably in their preferred language.
+    14. Multi-language Support: Use the Discord clone comfortably in multiple languages for a global user base.
 
-15. Developer API: Providing a robust developer API allows third-party developers to create and integrate custom bots, plugins, or extensions, expanding the functionality and versatility of the Discord clone ecosystem.
+    15. Developer API: Create and integrate custom bots, plugins, or extensions to expand functionality and versatility.
