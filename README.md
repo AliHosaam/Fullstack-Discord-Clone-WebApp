@@ -79,3 +79,46 @@ Key Features:
 
     8. CSS Framework:
         tailwindcss: Version 3.3.0
+
+        
+  Techs Used:
+
+   ![Image 39](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/ce669a00-795a-45c1-a1fa-ce78073f93c5)
+   ![Image 40](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/17086ca1-e4df-4fa9-8218-99905bdcdd2a)
+   ![Image 41](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/012f8e3b-bb66-421b-aaba-f05979518ba9)
+   ![Image 42](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/5ee90d7f-24d7-41b7-b890-c57b723a4f36)
+   ![Image 43](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/844ff0a7-aa98-4cf0-a92f-90476ccaa3bd)
+   ![Image 44](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/3c5a2290-cefc-44c8-8feb-7bb53d4258eb)
+   ![Image 45](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/bf6eebff-ab52-4989-a8b3-343f3e5dfb58)
+   ![Image 46](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/af4e5f00-d794-4ae7-9fb2-a0805f56abde)
+   ![Image 47](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/6c30b14f-7b11-4507-83f5-8f2cad8cbae4)
+   ![Image 48](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/f5f5600a-49fa-404e-8c70-bb0fc42d7df8)
+   ![Image 49](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/55d084ff-78d4-41d0-b7b3-c240cfa69558)
+   ![Image 50](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/137ba8ae-1d40-4a9a-9f72-ec126ba67128)
+   ![Image 51](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/9c54ba26-2144-4f09-8f10-34ed26893a18)
+   ![Image 52](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/26d230a5-97af-4a20-9886-9f866e515a6c)
+   ![Image 53](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/0d4ce105-9fc0-49f0-b155-aab91542ca08)
+   ![Image 54](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/2b596ae3-334a-496c-bd28-81678b20508e)
+   ![Image 55](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/e8aaae4f-0992-4756-be54-32898d301d51)
+   ![Image 56](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/9fa352f8-9ace-4e39-af66-b12ad50551ed)
+   ![Image 57](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/e3fc69d9-6ca9-4397-a76d-65455cbf61df)
+   ![Image 58](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/c2a7c71a-87c5-4d9e-8115-fc3e9e807095)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
