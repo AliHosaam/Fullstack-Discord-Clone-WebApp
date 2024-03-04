@@ -81,7 +81,7 @@ Key Features:
         tailwindcss: Version 3.3.0
 
         
-  Techs Used:
+ Screenshots:
 
    ![Image 39](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/ce669a00-795a-45c1-a1fa-ce78073f93c5)
    ![Image 40](https://github.com/AliHosaam/Fullstack-Discord-Clone-WebApp/assets/137641254/17086ca1-e4df-4fa9-8218-99905bdcdd2a)
