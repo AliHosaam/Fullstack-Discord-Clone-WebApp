@@ -29,3 +29,53 @@ Key Features:
     14. Multi-language Support: Use the Discord clone comfortably in multiple languages for a global user base.
 
     15. Developer API: Create and integrate custom bots, plugins, or extensions to expand functionality and versatility.
+
+  Techs Used:
+
+    1. Frontend Framework:
+        Next.js: Version 14.0.4
+
+    2. UI Components and Styling:
+        @radix-ui/react: Various components including Avatar, Dialog, Dropdown Menu, Label, Popover, Scroll Area, Select, Separator, Slot, and Tooltip.
+        @tanstack/react-query: Version 5.18.1
+        @uploadthing/react: Version 6.0.2
+        emoji-mart: Version 5.5.2
+        lucide-react: Version 0.297.0
+        react-hook-form: Version 7.49.2
+        shadcn-ui: Version 0.5.0
+        tailwind-merge: Version 2.1.0
+        tailwindcss-animate: Version 1.0.7
+        zustand: Version 4.4.7
+
+    3. Authentication and Authorization:
+        @clerk/nextjs: Version 4.29.1
+
+    4. Database Access:
+        Prisma: Version 5.7.1
+
+    5. Client-Server Communication:
+        axios: Version 1.6.3
+        socket.io: Version 4.7.4
+        socket.io-client: Version 4.7.4
+
+    6. Development Tools:
+        typescript: Version 5
+        query-string: Version 8.1.0
+        uuid: Version 9.0.1
+
+    7. Utility Libraries:
+        add: Version 2.0.6
+        class-variance-authority: Version 0.7.0
+        clsx: Version 2.0.0
+        cmdk: Version 0.2.0
+        date-fns: Version 3.3.1
+        init: Version 0.1.2
+        livekit-client: Version 2.0.4
+        livekit-server-sdk: Version 2.0.4
+        react-dom: Version 18
+        react: Version 18
+        uploadthing: Version 6.1.0
+        zod: Version 3.22.4
+
+    8. CSS Framework:
+        tailwindcss: Version 3.3.0
